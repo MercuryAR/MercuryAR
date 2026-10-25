@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hola, soy Paulo Orsini 👋
 
-<!--
-**MercuryAR/MercuryAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Python Developer | Automatización de Procesos | Ingeniería de Datos
 
-Here are some ideas to get you started:
+**Full Stack Development · UX/UI Design · Bases de Datos**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me especializo en el desarrollo de soluciones con Python, la automatización de procesos y el procesamiento de datos. También desarrollo aplicaciones web y diseño interfaces centradas en la experiencia del usuario.
+
+## 🛠️ Tecnologías y herramientas
+
+**Lenguajes:** Python · JavaScript · TypeScript · Java · SQL · HTML · CSS
+
+**Backend y automatización:** Python · FastAPI · Spring Boot · APIs REST · Web Scraping
+
+**Frontend:** React · Next.js · Tailwind CSS · Bootstrap
+
+**Datos:** PostgreSQL · MySQL · SQL Server · Pandas
+
+**Diseño UX/UI:** Figma · Design Systems · Responsive Design
+
+**Herramientas:** Git · GitHub · Docker · VS Code
+
+## 🚀 Proyectos destacados
+
+### 🐍 1. OSRA | Data Pipeline
+Proyecto de procesamiento y transformación de datos con Python, orientado a la automatización de tareas y la organización de información.
+
+🔗 [Ver repositorio](https://github.com/MercuryAR/osra-res331-data-pipeline)
+
+### 🔎 2. OS | Web Scraping
+Proyecto de extracción automatizada de información mediante Python y técnicas de web scraping.
+
+🔒 Repositorio privado.
+
+### 🔎 3. OSRA | Web Scraping
+Proyecto de automatización de recolección de datos mediante Python y web scraping.
+
+🔒 Repositorio privado.
+
+### 🛒 4. DeporShop | E-commerce Full Stack
+Aplicación de comercio electrónico con backend en Java y Spring Boot, frontend en React y TypeScript, y rediseño UX/UI propio desarrollado en Figma.
+
+- Diseño responsive para desktop, tablet y mobile.
+- Autenticación JWT, carrito de compras y gestión de pedidos.
+- Design System y componentes reutilizables.
+
+🔗 [Ver repositorio](https://github.com/MercuryAR/deporshop-ecommerce) · [Demo en vivo](https://deporshop-frontend.onrender.com/)
+
+### 🎨 5. Ollas y Esquinas | Desarrollo Web y UX/UI
+Proyecto de desarrollo web con diseño de interfaz y organización visual de componentes.
+
+🔗 [Ver repositorio](https://github.com/MercuryAR/unpilar-efa-ollas-y-esquinas)
+
+## 📫 Contacto y perfiles profesionales
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/paulo-orsini-60206669/)
+- 💻 [GitHub](https://github.com/MercuryAR)

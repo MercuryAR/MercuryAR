@@ -33,7 +33,7 @@ Me especializo en el desarrollo de soluciones con Python, la automatización de 
 ### 🐍 1. OSRA | Data Pipeline
 Proyecto de procesamiento y transformación de datos con Python, orientado a la automatización de tareas y la organización de información.
 
-🔗 [Ver repositorio](https://github.com/MercuryAR/osra-res331-data-pipeline)
+🔒 Repositorio privado.
 
 ### 🔎 2. OS | Web Scraping
 Proyecto de extracción automatizada de información mediante Python y técnicas de web scraping.

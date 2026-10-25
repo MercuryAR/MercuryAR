@@ -41,7 +41,7 @@ Proyecto de extracción automatizada de información mediante Python y técnicas
 🔒 Repositorio privado.
 
 ### 🔎 3. OSRA | Web Scraping
-Proyecto de automatización de recolección de datos mediante Python y web scraping.
+Proyecto de extracción automatizada de información mediante Python y técnicas de web scraping.
 
 🔒 Repositorio privado.
 

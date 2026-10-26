@@ -31,6 +31,7 @@ Me especializo en el desarrollo de soluciones con Python, la automatización de 
 ## 🚀 Proyectos destacados
 
 ### 🐍 1. DataFlow ETL Pipeline | Data Engineering
+
 Proyecto de procesamiento y transformación de datos con Python, orientado a la automatización de tareas y la organización de información.
 
 ### 🏗️ Arquitectura y flujo del Data Pipeline
@@ -47,17 +48,27 @@ Proyecto de procesamiento y transformación de datos con Python, orientado a la 
 
 🔒 Repositorio privado.
 
-### 🔎 2. OS | Web Scraping
-Proyecto de extracción automatizada de información mediante Python y técnicas de web scraping.
+### 🔎 2. Web Scraping y Automatización con Python
+
+Proyecto de automatización de procesos mediante Python, orientado a la extracción, procesamiento y organización de información desde plataformas web.
+
+Incluye técnicas de web scraping, tratamiento de datos y generación de resultados estructurados.
+
+#### 🏗️ Arquitectura y flujo de automatización
+
+<a href="arquitectura_publica.png">
+  <img src="arquitectura_publica.png"
+       alt="Arquitectura del proyecto de Web Scraping"
+       width="550">
+</a>
+
+📐 [Ver arquitectura completa](arquitectura_publica.png)
+
+🔄 [Ver diagrama de flujo completo](flujo_publico.png)
 
 🔒 Repositorio privado.
 
-### 🔎 3. OSRA | Web Scraping
-Proyecto de extracción automatizada de información mediante Python y técnicas de web scraping.
-
-🔒 Repositorio privado.
-
-### 🛒 4. DeporShop | E-commerce Full Stack
+### 🛒 3. DeporShop | E-commerce Full Stack
 Aplicación de comercio electrónico con backend en Java y Spring Boot, frontend en React y TypeScript, y rediseño UX/UI propio desarrollado en Figma.
 
 - Diseño responsive para desktop, tablet y mobile.
@@ -66,7 +77,7 @@ Aplicación de comercio electrónico con backend en Java y Spring Boot, frontend
 
 🔗 [Ver repositorio](https://github.com/MercuryAR/deporshop-ecommerce) · [Demo en vivo](https://deporshop-frontend.onrender.com/)
 
-### 🎨 5. Ollas y Esquinas | Desarrollo Web y UX/UI
+### 🎨 4. Ollas y Esquinas | Desarrollo Web y UX/UI
 Proyecto de desarrollo web con diseño de interfaz y organización visual de componentes.
 
 🔗 [Ver repositorio](https://github.com/MercuryAR/unpilar-efa-ollas-y-esquinas)

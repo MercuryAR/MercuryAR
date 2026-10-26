@@ -30,8 +30,16 @@ Me especializo en el desarrollo de soluciones con Python, la automatización de 
 
 ## 🚀 Proyectos destacados
 
-### 🐍 1. OSRA | Data Pipeline
+### 🐍 1. DataFlow ETL Pipeline | Data Engineering
 Proyecto de procesamiento y transformación de datos con Python, orientado a la automatización de tareas y la organización de información.
+
+**Arquitectura Medallion**
+
+![Arquitectura Medallion](Arquitectura%20ETL%20Medallion%20con%20Airflow.png)
+
+**Flujo de procesamiento ETL**
+
+![Diagrama de flujo ETL](Diagrama%20DataFlow%20ETL%20en%20Airflow.png)
 
 🔒 Repositorio privado.
 

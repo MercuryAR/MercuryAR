@@ -33,13 +33,17 @@ Me especializo en el desarrollo de soluciones con Python, la automatización de 
 ### 🐍 1. DataFlow ETL Pipeline | Data Engineering
 Proyecto de procesamiento y transformación de datos con Python, orientado a la automatización de tareas y la organización de información.
 
-**Arquitectura Medallion**
+### 🏗️ Arquitectura y flujo del Data Pipeline
 
-![Arquitectura Medallion](Arquitectura%20ETL%20Medallion%20con%20Airflow.png)
+<a href="Arquitectura%20ETL%20Medallion%20con%20Airflow.png">
+  <img src="Arquitectura%20ETL%20Medallion%20con%20Airflow.png"
+       alt="Arquitectura Medallion del DataFlow ETL Pipeline"
+       width="550">
+</a>
 
-**Flujo de procesamiento ETL**
+📐 [Ver arquitectura completa](Arquitectura%20ETL%20Medallion%20con%20Airflow.png)
 
-![Diagrama de flujo ETL](Diagrama%20DataFlow%20ETL%20en%20Airflow.png)
+🔄 [Ver diagrama de flujo completo](Diagrama%20DataFlow%20ETL%20en%20Airflow.png)
 
 🔒 Repositorio privado.
 

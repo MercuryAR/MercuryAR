@@ -26,7 +26,7 @@ Me especializo en el desarrollo de soluciones con Python, la automatización de 
 
 **Diseño UX/UI:** Figma · Design Systems · Responsive Design
 
-**Herramientas:** Git · GitHub · Docker · VS Code
+**Herramientas:** Git · GitHub · Docker · VS Code - Figma
 
 ## 🚀 Proyectos destacados
 
